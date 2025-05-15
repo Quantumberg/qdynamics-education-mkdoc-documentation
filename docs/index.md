@@ -1,17 +1,23 @@
-<!-- # Welcome to MkDocs
+# Education
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**The Education domain is designed to meet requirements of any organization which imparts knowledge and believe in doing so in an organized fashion. It has already been used at schools, colleges and even in private firms.**
 
-## Commands
+It helps you to effectively manage administration and allows you to focus on what is most important for your institute, to educate!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+![Student Dashboard](../Images/school-hero.png)
 
-## Project layout
+**Contents of Education Domain**
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files. -->
+Using Education module , you can effectively manage operations like:
+
+- _Managing Student_
+- _Program and Courses_
+- _Publishing Programs on the portal_
+- _Online Admissions_
+- _Student Attendance_
+- _Course Scheduling_
+- _Portal for Publishing Programs_
+- _Assessment Planning and Assessment Result_
+- _Fee Structure and Fee Receipt_
+
+<!-- ![Fees](../Images/assessment.png) -->
