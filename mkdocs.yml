@@ -1,0 +1,38 @@
+site_name: Education documentation
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+  palette:
+    scheme: default
+    # primary: blue
+    # accent: light blue
+  # font:
+  #   text: Roboto
+  #   code: Roboto Mono
+  # logo: assets/logo.png  # Update with your logo
+  # favicon: assets/favicon.ico  # Update with your favicon
+
+nav:
+  - .:
+      - Users and Permissions:
+          - Users: Users_Permissions/users.md
+          - Permissions: Users_Permissions/permissions.md
+      - Education:
+          - Introduction: Education/Edu_Introduction.md
+          - Education domain: Education/Edu_Domain.md
+          - Examination: Education/Examination.md
+          - Tracking the Progress: Education/Tracking_the_progress.md
+
+# markdown_extensions:
+#   - pymdownx.highlight
+#   - pymdownx.superfences
+#   - pymdownx.tabbed
+#   - pymdownx.details
+#   - toc:
+#       permalink: true
+
+extra_css:
+  - stylesheets/extra.css
